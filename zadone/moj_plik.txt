@@ -1,0 +1,4 @@
+﻿Przykładowe teksty w pliku tekstowym. Możesz tutaj umieścić dowolne informacje, notatki lub dane, które chcesz przechowywać w tym pliku.
+
+
+studium przypadku: Analiza wpływu zmian klimatycznych na lokalne ekosystemy. W tym studium pr przypadku skupimy się na badaniu skutków podnoszenia się temperatury i zmieniających się wzorców opadów na różnorodność biologiczną w regionie.
